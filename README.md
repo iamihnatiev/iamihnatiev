@@ -17,4 +17,4 @@ bio_dev = Bio()
 [![My Skills](https://skillicons.dev/icons?i=html,css,sass,tailwind,js,ts,py,docker,md,git,github,figma,ps&perline=9)](https://github.com/iamihnatiev)
 
 ### Statistics from public repositories:
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iamihnatiev&layout=compact&card_width=328&border_radius=10&border_color=242937&bg_color=242937&title_color=ffcf53&text_color=ffffff)](https://github.com/iamihnatiev)
+[![Top Langs](https://github-readme-stats-iamihnatiev.vercel.app/api/top-langs/?username=iamihnatiev&layout=compact&card_width=328&border_radius=10&border_color=242937&bg_color=242937&title_color=ffcf53&text_color=ffffff)](https://github.com/iamihnatiev)
