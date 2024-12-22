@@ -1,5 +1,3 @@
-### Hello World
-
 ### Languages and Tools:
 [![My Skills](https://skillicons.dev/icons?i=html,css,sass,tailwind,js,ts,py,django,docker,md,git,github,vscode,figma,ps,discord&perline=9)](https://github.com/iamihnatiev)
 
